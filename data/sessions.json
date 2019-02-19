@@ -1,0 +1,288 @@
+{
+  "1": {
+    "id": 1,
+    "title": "Coffee break"
+  },
+  "2": {
+    "id": 2,
+    "title": "Discussion panel: Learning Analytics",
+    "description": "",
+    "speakers": [
+    ],
+    "tags": [
+      "Discussion panel"
+    ],
+    "presentation":""
+  },
+  "3": {
+    "id": 3,
+    "title": "Lunch"
+  },
+  "10": {
+    "id": 10,
+    "title": "Keynote",
+    "description": "",
+    "speakers": [
+      1
+    ],
+    "tags": [
+      "Keynote"
+    ],
+    "presentation":""
+  },
+  "11": {
+    "id": 11,
+    "title": "Paper presentations of LA papers submitted to LASI",
+    "description": "",
+    "speakers": [
+    ],
+    "tags": [
+      "Paper presentations"
+    ],
+    "presentation":""
+  },
+  "12": {
+    "id": 12,
+    "title": "Keynote: Student-facing learning dashboards",
+    "description": "",
+    "speakers": [
+      3
+    ],
+    "tags": [
+      "Keynote"
+    ],
+    "presentation":""
+  },
+  "13": {
+    "id": 13,
+    "title": "Paper presentations of LA papers submitted to LASI",
+    "description": "",
+    "speakers": [
+    ],
+    "tags": [
+      "Paper presentations"
+    ],
+    "presentation":""
+  },
+  "14": {
+    "id": 14,
+    "title": "Keynote: Coding as a playground: Young children, robots and kittens",
+    "description": "",
+    "speakers": [
+      4
+    ],
+    "tags": [
+      "Keynote"
+    ],
+    "presentation":""
+  },
+  "15": {
+    "id": 15,
+    "title": "Keynote",
+    "description": "",
+    "speakers": [
+      2
+    ],
+    "tags": [
+      "Keynote"
+    ],
+    "presentation":""
+  },
+  "16": {
+    "id": 16,
+    "title": "Keynote",
+    "description": "",
+    "speakers": [
+      5
+    ],
+    "tags": [
+      "Keynote"
+    ],
+    "presentation":""
+  },
+  "17": {
+    "id": 17,
+    "title": "Fundación Apereo",
+    "description": "",
+    "speakers": [
+    ],
+    "presentation":""
+  },
+  "18": {
+    "id": 18,
+    "title": "Paper presentations of LA papers submitted to LASI",
+    "description": "",
+    "speakers": [
+    ],
+    "tags": [
+      "Paper presentations"
+    ],
+    "presentation":""
+  },
+  "19": {
+    "id": 19,
+    "title": "Workshop about policies in Learning Analytics. SHEILA Project",
+    "description": "",
+    "speakers": [
+      2
+    ],
+    "tags": [
+      "Workshop"
+    ],
+    "presentation":""
+  },
+  "20": {
+    "id": 20,
+    "title": "Closing ceremony",
+    "description": "",
+    "speakers": [
+    ],
+    "presentation":""
+  },
+  "111": {
+    "id": 111,
+    "title": "Paper presentation: What information do teachers demand from a computerized classroom? An exploratory analysis",
+    "description": "",
+    "speakers": [
+      6,7,8,9
+    ],
+    "tags": [
+      "Paper presentations"
+    ],
+    "presentation":""
+  },
+  "112": {
+    "id": 112,
+    "title": "Paper presentation: Learning Analytics Implementation in a Multidomain Computer-Based Learning Environment",
+    "description": "",
+    "speakers": [
+    10,11,12,13,14,15,16
+    ],
+    "tags": [
+      "Paper presentations"
+    ],
+    "presentation":""
+  },
+  "113": {
+    "id": 113,
+    "title": "Paper presentation: Towards a Living Lab to support evidence-based educational research and innovation",
+    "description": "",
+    "speakers": [
+    17,18,19,20,21
+    ],
+    "tags": [
+      "Paper presentations"
+    ],
+    "presentation":""
+  },
+  "114": {
+    "id": 114,
+    "title": "Paper presentation: Ongoing research about the use of commercial-off-the-shelf wrist wearables in educational contexts",
+    "description": "",
+    "speakers": [
+    22,23,24
+    ],
+    "tags": [
+      "Paper presentations"
+    ],
+    "presentation":""
+  },
+  "131": {
+    "id": 131,
+    "title": "Paper presentation: Predicting Peer-Review Participation at Large Scale Using an Ensemble Learning Method",
+    "description": "",
+    "speakers": [
+    25,26,27,28,29
+    ],
+    "tags": [
+      "Paper presentations"
+    ],
+    "presentation":""
+  },
+  "132": {
+    "id": 132,
+    "title": "Paper presentation: Study of the flexibility of a Learning Analytics tool to evaluate teamwork competence acquisition in different contexts",
+    "description": "",
+    "speakers": [
+    30,31,32,33
+    ],
+    "tags": [
+      "Paper presentations"
+    ],
+    "presentation":""
+  },
+  "133": {
+    "id": 133,
+    "title": "Proposal of a system of indicators to assess teamwork using log-based learning analytics",
+    "description": "",
+    "speakers": [
+    34,35,36,37
+    ],
+    "tags": [
+      "Paper presentations"
+    ],
+    "presentation":""
+  },
+  "134": {
+    "id": 134,
+    "title": "Paper presentation: Using Kibana and ElasticSearch for the Recommendation of Job Offers to Students",
+    "description": "",
+    "speakers": [
+    38,39,40,41,42,43,44,45
+    ],
+    "tags": [
+      "Paper presentations"
+    ],
+    "presentation":""
+  },
+  "181": {
+    "id": 181,
+    "title": "Paper presentation: Instructional perspective using Learning Analytics in Computer Science education",
+    "description": "",
+    "speakers": [
+    46,47
+    ],
+    "tags": [
+      "Paper presentations"
+    ],
+    "presentation":""
+  },
+  "182": {
+    "id": 182,
+    "title": "Paper presentation: A Data Collection Experience with Canvas LMS as a Learning Platform",
+    "description": "",
+    "speakers": [
+    48,49,11,14
+    ],
+    "tags": [
+      "Paper presentations"
+    ],
+    "presentation":""
+  },
+  "183": {
+    "id": 183,
+    "title": "Paper presentation: Studying Students' Behavior in UNED-COMA MOOCs",
+    "description": "",
+    "speakers": [
+    42,39,41,38,43,44,45,50
+    ],
+    "tags": [
+      "Paper presentations"
+    ],
+    "presentation":""
+  },
+  "184": {
+    "id": 184,
+    "title": "Paper presentation: RaMon, a Rating Monitoring System for Educational Environments",
+    "description": "",
+    "speakers": [
+    51,52,53
+    ],
+    "tags": [
+      "Paper presentations"
+    ],
+    "presentation":""
+  }
+}
+
+

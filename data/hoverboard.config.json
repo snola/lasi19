@@ -1,0 +1,211 @@
+{
+  "firebase": {
+    "name": "lasi19",
+    "domain": "lasi19.firebaseapp.com",
+    "database": "https://lasi19.firebaseio.com",
+    "api": "AIzaSyBxQXPICXbpG3J_cahLR3zQC8UJlLmDk1c",
+    "userSessionsPath": "/userSessions"
+  },
+  "pages": {
+    "home": {
+      "headerSettings": {
+        "backgroundColor": "#3BA5BD",
+        "backgroundImage": "/images/backgrounds/home.png",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff",
+        "hideLogo": true,
+        "minHeight": "360px"
+      }
+    },
+    "blog": {
+      "headerSettings": {
+        "backgroundColor": "#3BA5BD",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "speakers": {
+      "headerSettings": {
+        "backgroundColor": "#3BA5BD",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "schedule": {
+      "headerSettings": {
+        "backgroundColor": "#3BA5BD",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "team": {
+      "headerSettings": {
+        "backgroundColor": "#3BA5BD",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "cod": {
+      "headerSettings": {
+        "backgroundColor": "#3BA5BD",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    }
+  },
+  "navigation": [
+    {
+      "route": "home",
+      "permalink": "/"
+    },
+    {
+      "route": "blog",
+      "permalink": "/blog/"
+    },
+    {
+      "route": "schedule",
+      "permalink": "/schedule/"
+    },
+    {
+      "route": "speakers",
+      "permalink": "/speakers/"
+    },
+    {
+      "route": "team",
+      "permalink": "/team/"
+    },
+    {
+      "route": "c4papers",
+      "permalink": "/blog/posts/call-for-papers/"
+    }
+  ],
+  "url": "https://lasi19.snola.es",
+  "mailchimp": {
+    "url": "",
+    "name": ""
+  },
+  "partnershipProposition": "mailto:info@snola.es?subject=Partnership%20LASI%20Spain%202019",
+  "disqusShortName": "lasiSpain2019",
+  "languages": [
+    {
+      "name": "English",
+      "key": "en"
+    }
+  ],
+  "footerBlocks": [
+    {
+      "title": "for-visitors",
+      "links": [
+        {
+          "text": "team",
+          "url": "/team/"
+        },
+        {
+          "text": "snola",
+          "url": "https://snola.es/",
+          "newTab": true
+        },
+        {
+          "text": "lasi18",
+          "url": "https://lasi18.snola.es/",
+          "newTab": true
+        },
+        {
+          "text": "lasi17",
+          "url": "https://lasi17.snola.es/",
+          "newTab": true
+        },
+        {
+          "text": "lasi16",
+          "url": "https://lasi16.snola.es/",
+          "newTab": true
+        },
+        {
+          "text": "lasi15",
+          "url": "https://blogs.deusto.es/lasi2015Bilbao/",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "title": "for-partners",
+      "links": [
+        {
+          "text": "partnership-proposition",
+          "url": "mailto:info@snola.es?subject=Partnership%20LASI%20Spain%202019",
+          "newTab": true
+        }
+      ]
+    }
+  ],
+  "contactBlock": {
+    "links": [
+      {
+        "text": "info@snola.es",
+        "url": "mailto:info@snola.es"
+      }
+    ]
+  },
+  "tickets": {
+    "url": "",
+    "elements": [
+      {
+        "name": "early-ticket",
+        "price": "TBA",
+        "currency": "",
+        "starts": "early-ticket-starts",
+        "ends": "early-ticket-ends",
+        "info": "early-ticket-info",
+        "soldOut": false
+      }
+    ]
+  },
+  "teamPageTitle": "team-page-title",
+  "teamPageText": "team-page-text",
+  "statistics": [
+    {
+      "counter": 2,
+      "caption": "days"
+    }
+  ],
+  "hashtag": "LASISpain19",
+  "social": [
+    {
+      "name": "twitter",
+      "nickname": "snolaresearch",
+      "url": "https://twitter.com/snolaresearch"
+    },
+    {
+      "name": "github",
+      "nickname": "SNOLA",
+      "url": "https://github.com/snola"
+    }
+  ],
+  "tweetsSource": "https://tweetledee.snola.es/userjson.php?c=10&cache_interval=7200",
+  "gallery": {
+    "albumUrl": "https://twitter.com/i/moments/838794944273866757",
+    "photos": {
+      "big": "/images/backgrounds/2015_1.jpg",
+      "small": [
+        "/images/backgrounds/2015_2.jpg",
+        "/images/backgrounds/2015_3.jpg"
+      ]
+    }
+  },
+  "location": {
+    "apiKey": "",
+    "link": "http://teleco.uvigo.es/index.php/gl/escola/planos-e-enderezos",
+    "pointer": {
+      "latitude": 42.170018,
+      "longitude": -8.6888076,
+      "zoom": 14
+    },
+    "mapCenter": {
+      "latitude": 42.170018,
+      "longitude": -8.6888076
+    },
+    "images": [
+      "/images/backgrounds/location_1.jpg"
+    ]
+  }
+}

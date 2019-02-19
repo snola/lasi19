@@ -1,0 +1,181 @@
+[
+  {
+    "title": "",
+    "members": [
+
+    ]
+  },
+  {
+    "title": "General Chair",
+    "members": [
+	{
+        "name": "Manuel Caeiro-Rodríguez",
+        "photoUrl": "/images/people/ManuelCaeiro-Rodríguez.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=jj6XgewAAAAJ",
+            "name": "Website"
+          }
+        ],
+        "title": "Universidade de Vigo, Spain"
+     }
+    ]
+  },
+   {
+    "title": "Organization Chairs",
+    "members": [
+      {
+        "name": "Martín Llamas Nistal",
+        "photoUrl": "/images/people/MartinLlamas.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.com/citations?user=-4jE0ywAAAAJ&hl=es",
+            "name": "Website"
+          }
+        ],
+        "title": "Universidade de Vigo, Spain"
+     },
+     {
+        "name": "Fernando Mikic Fonte",
+        "photoUrl": "/images/people/FernandoMikic.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://www.researchgate.net/profile/Fernando_Mikic_Fonte2",
+            "name": "Website"
+          }
+        ],
+        "title": "Universidade de Vigo, Spain"
+     },
+     {
+        "name": "Martín Liz Domínguez",
+        "photoUrl": "",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=O2XxX6AAAAAJ&hl=es",
+            "name": "Website"
+          }
+        ],
+        "title": "Universidade de Vigo, Spain"
+     }
+    ]
+  },  
+  {
+    "title": "Program Committee Chairs",
+    "members": [
+{
+        "name": "Ángel Hernández-García",
+        "photoUrl": "/images/people/angelHernandez.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=UMJmq0cAAAAJ",
+            "name": "Website"
+          }
+        ],
+        "title": "Universidad Politécnica de Madrid, Spain"
+      },
+      {
+        "name": "Juan Cruz-Benito",
+        "photoUrl": "/images/people/cruz-benito.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=_mLnQPgAAAAJ",
+            "name": "Website"
+          }
+        ],
+        "title": "IBM Research, USA"
+     },
+      {
+        "name": "Manuel Caeiro-Rodríguez",
+        "photoUrl": "/images/people/ManuelCaeiro-Rodríguez.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=jj6XgewAAAAJ",
+            "name": "Website"
+          }
+        ],
+        "title": "Universidade de Vigo, Spain"
+      },
+      {
+        "name": "Alejandra Martínez-Monés",
+        "photoUrl": "/images/people/AlejandraMartinez-Mones.jpg",
+        "socials": [
+         {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=vFxp1Y0AAAAJ",
+            "name": "Website"
+         }
+        ],
+        "title": "Universidad de Valladolid, Spain"
+      },
+      {
+        "name": "Pedro José Muñoz-Merino",
+        "photoUrl": "/images/people/Pedro.jpg",
+        "socials": [
+         {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=c-VhX_EAAAAJ",
+            "name": "Website"
+         }
+        ],
+        "title": "Universidad Carlos III de Madrid, Spain"
+      },
+      {
+        "name": "Mikel Larrañaga",
+        "photoUrl": "/images/people/",
+        "socials": [
+         {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=vyOFxGQAAAAJ",
+            "name": "Website"
+         }
+        ],
+        "title": "Euskal Herriko Unibertsitatea, Spain"
+      },
+      {
+        "name": "Mikel Villamañe",
+        "photoUrl": "/images/people/",
+        "socials": [
+        ],
+        "title": "Euskal Herriko Unibertsitatea, Spain"
+      },
+      {
+        "name": "Ainhoa Álvarez",
+        "photoUrl": "/images/people/",
+        "socials": [
+        ],
+        "title": "Euskal Herriko Unibertsitatea, Spain"
+      },
+      {
+        "name": "Rafael Pastor",
+        "photoUrl": "/images/people/",
+        "socials": [
+         {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=Fc5BCyYAAAAJ",
+            "name": "Website"
+         }
+        ],
+        "title": "Universidad Nacional de Educación a Distancia, Spain"   
+    },
+    {
+        "name": "Miguel Ángel Conde-González",
+        "photoUrl": "/images/people/MiguelAConde-Gonzalez.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "link": "https://scholar.google.es/citations?user=arTN2ogAAAAJ",
+            "name": "Website"
+          }
+        ],
+        "title": "Universidad de León, Spain"
+     }
+    ]
+  } 
+]

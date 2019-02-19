@@ -1,0 +1,28 @@
+[
+  {
+    "title": "template-creator",
+    "logos": [
+      {
+        "name": "Universidade de Vigo",
+        "url": "http://www.uvigo.gal/",
+        "logoUrl": "../images/logos/uvigo.png",
+        "width": 540
+      }
+    ]
+  },
+  {
+    "title": "general-partner",
+    "logos": [
+      {
+        "name": "Spanish Network of Learning Analytics (SNOLA)",
+        "url": "https://snola.es",
+        "logoUrl": "../images/logos/SNOLA.png"
+      },
+      {
+        "name": "TELGalicia",
+        "url": "http://www.redetelgalicia.es",
+        "logoUrl": "../images/logos/telgalicia.png"
+      }
+      ]
+  }
+]
